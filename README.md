@@ -1,4 +1,4 @@
-# (https://ayildirim.github.io/bio/)
+# https://ayildirim.github.io/bio/
 clean and minimal portfolio page to track and list my projects
 
 
